@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://xialonglee.github.io/
+url: https://xialonglee.github.io
 date_format: "ordinal"
 title: Tropical coder
 subtitle: "技术心得交流"
